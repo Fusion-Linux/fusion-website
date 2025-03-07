@@ -1,5 +1,5 @@
 theme: E25DX
-
+baseURL: "https://fusion-linux.github.io/fusion-website/"
 enableGitInfo: true
 
 defaultContentLanguage: en
