@@ -1,8 +1,14 @@
 theme: E25DX
-
+baseURL: ""
 enableGitInfo: true
 
 defaultContentLanguage: en
+
+siteName: Fusion Docs
+
+presentYear: 2025
+
+
 
 languages:
   en:
@@ -10,7 +16,7 @@ languages:
     languageName: English
     languageCode: en-US
     contentDir: content/en
-    title: Site Name
+    title: Fusion Docs
     params:
       description: Site Description
 
@@ -33,20 +39,19 @@ markup:
 params:
   project:
     # To omit the startYear, put a ~ in its place.
-    startYear: 2022
-    presentYear: 2024
+    startYear: 2025
     github:
-      repo: username/repo
+      repo: yashbhangale/fusion
     themeColor:
       light: '#ffffff'
       dark: '#101010'
 
   author:
     name: Name
-    url: https://github.com/username/repo
+    url: https://github.com/yashbhangale
 
   home:
-    heading: Your next
+    heading: Fusion Docs
     headingSegment2: Theme
     description: Description
     getStartedPath: docs/
