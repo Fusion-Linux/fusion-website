@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fusion Docs</title>
-    <link>//localhost:34287/</link>
+    <link>/</link>
     <description>Recent content on Fusion Docs</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <atom:link href="//localhost:34287/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>//localhost:34287/docs/hello-world/</link>
+      <link>/docs/hello-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:34287/docs/hello-world/</guid>
+      <guid>/docs/hello-world/</guid>
       <description>&lt;p&gt;Coming Soon!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Modules</title>
-      <link>//localhost:34287/docs/modules/</link>
+      <link>/docs/modules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:34287/docs/modules/</guid>
+      <guid>/docs/modules/</guid>
       <description>&lt;p&gt;Coming soon!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Overview</title>
-      <link>//localhost:34287/docs/overview/</link>
+      <link>/docs/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:34287/docs/overview/</guid>
+      <guid>/docs/overview/</guid>
       <description>&lt;p&gt;Coming soon !&lt;/p&gt;</description>
     </item>
   </channel>

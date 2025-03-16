@@ -2,18 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:34287/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:34287/docs/</loc>
+    <loc>/docs/</loc>
+    <lastmod>2025-03-16T21:00:49+05:30</lastmod>
   </url><url>
-    <loc>//localhost:34287/</loc>
+    <loc>/</loc>
+    <lastmod>2025-03-16T21:00:49+05:30</lastmod>
   </url><url>
-    <loc>//localhost:34287/docs/hello-world/</loc>
+    <loc>/docs/hello-world/</loc>
+    <lastmod>2025-03-16T21:00:49+05:30</lastmod>
   </url><url>
-    <loc>//localhost:34287/docs/modules/</loc>
+    <loc>/docs/modules/</loc>
+    <lastmod>2025-03-16T21:00:49+05:30</lastmod>
   </url><url>
-    <loc>//localhost:34287/docs/overview/</loc>
+    <loc>/docs/overview/</loc>
+    <lastmod>2025-03-16T21:00:49+05:30</lastmod>
   </url><url>
-    <loc>//localhost:34287/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
